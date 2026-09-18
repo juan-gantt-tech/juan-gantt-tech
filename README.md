@@ -42,7 +42,7 @@ Italicized entries are in the queue — links go live as each repo is published.
 Background & credentials
 B.S., Cybersecurity Technology — University of Maryland Global Campus, 2025
 CompTIA CySA+ — valid through 2031
-CompTIA Security+ — August 2026
+CompTIA Security+ — September 2026
 ISC2 CGRC — in progress
 Active TS/SCI clearance with DHS suitability eligibility
 Four Block Foundation graduate · CloudTechExecVIP mentorship program
